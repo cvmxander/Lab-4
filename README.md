@@ -1,1 +1,2 @@
-# This is a repo for Lab 4. I did not have a repo previously I could use.
+# Lab 4 Repo
+I do not have enough repository to use.
