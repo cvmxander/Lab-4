@@ -2,4 +2,4 @@
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/PROJECT_ID/badge)](https://www.bestpractices.dev/projects/PROJECT_ID)
 
 # Lab 4 Repo
-I do not have enough repository to use.
+I do not have another repository to use.
