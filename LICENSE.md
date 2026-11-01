@@ -1,3 +1,0 @@
-# Licenses
-
-N/A
