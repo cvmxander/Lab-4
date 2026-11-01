@@ -5,19 +5,6 @@
 
 version: 2
 updates:
-  # 1. Track C++ dependencies via vcpkg
-  - package-ecosystem: "vcpkg"
-    directory: "/"
-    schedule:
-      interval: "weekly" # Checks for new baseline snapshots weekly
-
-  # 2. Track C++ dependencies if you pull them in as Git Submodules
-  - package-ecosystem: "gitsubmodule"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-
-  # 3. Track your GitHub Actions CI/CD workflows
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
