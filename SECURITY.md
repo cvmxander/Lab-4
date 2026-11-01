@@ -4,8 +4,8 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| All     | :white_check_mark  |
+| All     | :white_check_mark:  |
    
 ## Reporting a Vulnerability
 
-Report the issue via GitHub
+Report the issue via GitHub Issues
