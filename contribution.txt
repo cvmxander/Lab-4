@@ -1,0 +1,3 @@
+# Contribution
+
+There is nothing to contribute. In the event of it, use a pull request.
